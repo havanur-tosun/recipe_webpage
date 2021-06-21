@@ -1,0 +1,13 @@
+h1 {
+    font-family: 'Indie Flower', cursive;
+    color: rgb(190,0,0);
+}
+p{
+    text-indent: 30px;
+    opacity: 0.6;
+}
+.Pictures{position: relative;}
+.picturewrite{position: absolute;left: 15px;bottom: 100px;}
+h2{
+    text-decoration: underline wavy yellow;
+}
